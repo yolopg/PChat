@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/PChat.jpg</file>
+        <file>styles/stylesheets.qss</file>
+    </qresource>
+</RCC>
